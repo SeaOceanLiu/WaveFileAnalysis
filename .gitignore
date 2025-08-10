@@ -39,3 +39,38 @@
 
 # debug information files
 *.dwo
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# C++Builder
+__history/
+__recovery/
+Win64x/
+Win32/
+
+*.suo  # Visual Studio 用户选项文件
+*.ncb  # Visual Studio 导航栏配置文件
+*.plg  # Visual Studio 插件配置文件
+*.opt  # 优化设置文件
+*.aps  # 应用程序图标缓存文件
+*.o  # 对象文件
+*.d  # 依赖文件
+*.bak  # 备份文件
+*.exe  # 可执行文件
+*.obj  # 对象文件
+*.pdb  # 程序数据库文件
+*.idb  # 增量链接数据库文件
+*.pch  # 预编译头文件
+*.ilk  # 增量链接信息文件
+*.map  # 映射文件
+*.tds  # Borland C++ Builder的临时调试符号文件
+*.dcu  # Delphi编译单元文件
+*.layout  # C++Builder布局文件
+*.dep  # C++Builder依赖项文件
+*.user  # C++Builder用户设置文件
