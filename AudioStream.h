@@ -1,4 +1,4 @@
-#ifndef AudioStreamH
+﻿#ifndef AudioStreamH
 #define AudioStreamH
 
 #include <stdio.h>
@@ -11,7 +11,7 @@
 #include <audioclient.h>
 #include <audiopolicy.h>
 #include <mmdeviceapi.h>
-#include "DebugTrace.h"
+#include "DebugTrace/DebugTrace.h"
 #include "EventQueue.h"
 
 using namespace std;

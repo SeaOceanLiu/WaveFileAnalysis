@@ -18,7 +18,7 @@
 #include <Vcl.Dialogs.hpp>
 #include <Vcl.ExtCtrls.hpp>
 
-#include "DebugTrace.h"
+#include "DebugTrace/DebugTrace.h"
 #include "waveFormat.h"
 #include "WavePlayer.h"
 #include "EventQueue.h"

@@ -49,10 +49,12 @@
 *.code-workspace
 
 # C++Builder
+__astcache
 __history/
 __recovery/
-Win64x/
 Win32/
+Win64/
+Win64x/
 
 *.suo  # Visual Studio 用户选项文件
 *.ncb  # Visual Studio 导航栏配置文件
